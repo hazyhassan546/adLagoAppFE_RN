@@ -1,0 +1,17 @@
+com/adlagao/generated/BasePackageList.java
+ com.adlagao.generated.BasePackageList
+com/adlagao/ReactNativeFlipper.java
+ com.adlagao.ReactNativeFlipper
+ com.adlagao.ReactNativeFlipper$1
+ com.adlagao.ReactNativeFlipper$2
+ com.adlagao.ReactNativeFlipper$2$1
+com/adlagao/BuildConfig.java
+ com.adlagao.BuildConfig
+com/adlagao/MainApplication.java
+ com.adlagao.MainApplication
+ com.adlagao.MainApplication$1
+com/adlagao/MainActivity.java
+ com.adlagao.MainActivity
+ com.adlagao.MainActivity$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

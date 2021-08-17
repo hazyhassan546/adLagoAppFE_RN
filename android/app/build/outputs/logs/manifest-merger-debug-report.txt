@@ -1,0 +1,463 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/28560839b2fb6d679f5066b60c1f1188/transformed/jetified-flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/e7bbcc4772f10e1746cbbd81900e2d01/transformed/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/411b15f696018df42a3c6798902581f9/transformed/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:unimodules-react-native-adapter] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [:expo-splash-screen] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-updates] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-gesture-handler] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/hassanabbas/.gradle/caches/transforms-3/08ef509cb896858e56f2995140921a39/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/1c0ba601b5bca3e415449b931c00b179/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/1b2a142f561a8dc560d9b109a12f133f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/6be8810efa1c4cf1e55c605463291de7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:expo-application] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-application/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-error-recovery] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-font] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-image-loader] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-image-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-keep-awake] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-modules-core] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-modules-core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-structured-headers] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-structured-headers/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-app-loader] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/unimodules-app-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-updates-interface] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-updates-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/hassanabbas/.gradle/caches/transforms-3/40fa69ad56e65845c8ac7a05e1671cda/transformed/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/react-native-reanimated/android/build/.transforms/bfc6c626b003c9715562828ec18c63e1/transformed/jetified-react-native-reanimated-63-jsc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/d27a4940381b2a8c7e51c6cd4d8c932c/transformed/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/aa73d5e0d392703017eb1f3730898e4a/transformed/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/b0492770d8447f117ec50eace47c5c86/transformed/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/fa5e3753065b74793ac5d2af40989388/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/15b92ffd732c364a4ee6fe2276714e4a/transformed/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/2a4f154c70001d9205a7d970b7f187fa/transformed/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/59e5bac6ed0d2e6a4b0f7d14f760d407/transformed/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/655c227241a2e85fbd447333589d27fa/transformed/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/4dd74fd6410c2f71e72a5b38ca2b09f1/transformed/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/1b2fb887a4a81f0d205c0f99d87e3ce9/transformed/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/615145576828269132af3afdc8d7c743/transformed/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/d09fb003909d9cd3be0ba7f711dcad8a/transformed/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/4b3f1eb46669feb39a42b64c4d40a39b/transformed/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/75aa687a9eacf5da9990916ca943a3e2/transformed/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/5fc5ec0c157e976818e889bf3ba330e6/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/7d51a378fd1c5f0ddd012619dfaced06/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/daad751d25c167e8ff9cac051d877ac7/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/b84631bae5e9d83ebc64bdd51663bb35/transformed/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/9cb4e217b0b9c2feba592379f47dc290/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/d6348aa68d88d38f396d9fdf90f19b75/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/cf1c2ebcd4db49a77ade5d3b98b59ba3/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/7fbe71716414c45a9a45884334f16310/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/hassanabbas/.gradle/caches/transforms-3/cd60875f1d1b9088c2842f1315bd309c/transformed/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/cdfc62ecea079137b0bb9fe4a47413bf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/73a2598d927447ee58e609056736dc03/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/f28b4b57d1d0c117306f13ac5c552b5c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/185cfeef35b5d927aac313e57fa1b9c5/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/362dacefab577720c1b319731ca9e551/transformed/room-runtime-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/2c82d24af3a6cebd023c639314512085/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/fc77677982f41fad0cf20c1f914a03da/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/d108357c57c2312f0e8c72be3a80bb98/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/d382808575ce7d767b46b1d2e4d89905/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/0af3795e74a60077ea3de13f0773238d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/6b688f97faa45c49d4e4aae4f488880f/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/61f9497fb715b7f5b037619777c1db70/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/dd15430688c26969de5d153d8ccd8d7a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/26b770cb81608a384712ff1dead345f3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/df11b4e82595ddd5360c37915a75aa4f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /Users/hassanabbas/.gradle/caches/transforms-3/ab3ebcbb8c9356c2acb7c71a800aaf3c/transformed/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/f9482d7fb937acdbd0351d3a49bd82e0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/hassanabbas/.gradle/caches/transforms-3/0a5c1a805f1509538973b0ea4bd0da18/transformed/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/hassanabbas/.gradle/caches/transforms-3/0ffc67af11f49a49c4322abe164088f4/transformed/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/b290e94a656d830cf2b11ed89c341e4e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/c20e479377f314a37f78336880cbeb1e/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/b05fb189e9299fc7d3c87ecd81ff4599/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/e9a1ba93ee3dd0b5cd3efc9289113888/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/51554e2965ac12999ebf3f9235a8afde/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/86ec786f3561f4e2133fe1d0ffcf2c80/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/bf4457e95a578f56d5d315d7aab7c7e4/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/5c9439cde073ef10776e1a4bc34d0daf/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/1454d8a616e1a8f194bbc67fc4661351/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/f40f701507aaf9ef3b6ec5b641fe7080/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/95b6d84f94ea89f081ea02d5ae556d18/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/4d8b4bde4e0f130dcaca84f49221f69c/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/hassanabbas/.gradle/caches/transforms-3/5d45754e06f5db01855c2586f6abc370/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/be29b9c7a2a4b833bf82f1b756039a57/transformed/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/6cc039a013e007f2b9d8654fd0599e0d/transformed/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:70-91
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:70-91
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:3:3-64
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/28560839b2fb6d679f5066b60c1f1188/transformed/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/28560839b2fb6d679f5066b60c1f1188/transformed/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:3:20-62
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:5:3-75
+MERGED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:5:3-75
+MERGED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:5:3-75
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:5:20-73
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:6:3-63
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:6:20-61
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:8:3-77
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:8:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:9:3-78
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:9:20-76
+application
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:11:3-36:17
+MERGED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:11:3-36:17
+MERGED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:11:3-36:17
+MERGED from [:unimodules-react-native-adapter] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:unimodules-react-native-adapter] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/hassanabbas/.gradle/caches/transforms-3/08ef509cb896858e56f2995140921a39/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/hassanabbas/.gradle/caches/transforms-3/08ef509cb896858e56f2995140921a39/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-35:19
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-35:19
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/5fc5ec0c157e976818e889bf3ba330e6/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/5fc5ec0c157e976818e889bf3ba330e6/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/7d51a378fd1c5f0ddd012619dfaced06/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/7d51a378fd1c5f0ddd012619dfaced06/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/b84631bae5e9d83ebc64bdd51663bb35/transformed/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/b84631bae5e9d83ebc64bdd51663bb35/transformed/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/185cfeef35b5d927aac313e57fa1b9c5/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/185cfeef35b5d927aac313e57fa1b9c5/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/362dacefab577720c1b319731ca9e551/transformed/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/362dacefab577720c1b319731ca9e551/transformed/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.core:core:1.3.0] /Users/hassanabbas/.gradle/caches/transforms-3/ab3ebcbb8c9356c2acb7c71a800aaf3c/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/hassanabbas/.gradle/caches/transforms-3/ab3ebcbb8c9356c2acb7c71a800aaf3c/transformed/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/b290e94a656d830cf2b11ed89c341e4e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/b290e94a656d830cf2b11ed89c341e4e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/hassanabbas/.gradle/caches/transforms-3/5d45754e06f5db01855c2586f6abc370/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/hassanabbas/.gradle/caches/transforms-3/5d45754e06f5db01855c2586f6abc370/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/hassanabbas/.gradle/caches/transforms-3/ab3ebcbb8c9356c2acb7c71a800aaf3c/transformed/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:13:5-37
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:13:5-37
+	tools:ignore
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml:6:75-114
+	android:roundIcon
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:15:5-50
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:15:5-50
+	tools:targetApi
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml:6:54-74
+	android:icon
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:14:5-39
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:14:5-39
+	android:allowBackup
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:16:5-32
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:16:5-32
+	android:theme
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:17:5-36
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:17:5-36
+	android:usesCleartextTraffic
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:18:5-40
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:12:5-36
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:12:5-36
+meta-data#expo.modules.updates.EXPO_UPDATE_URL
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:20:5-103
+	android:value
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:20:68-101
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:20:16-67
+meta-data#expo.modules.updates.EXPO_SDK_VERSION
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:21:5-112
+	android:value
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:21:69-110
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:21:16-68
+activity#com.adlagao.MainActivity
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:22:5-34:16
+	android:label
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:24:7-39
+	android:launchMode
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:26:7-38
+	android:windowSoftInputMode
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:27:7-49
+	android:configChanges
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:theme
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:28:7-52
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:23:7-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:30:7-33:23
+action#android.intent.action.MAIN
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:31:9-60
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:31:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:32:9-68
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:32:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:35:5-81
+	android:name
+		ADDED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml:35:15-79
+uses-sdk
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/28560839b2fb6d679f5066b60c1f1188/transformed/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/28560839b2fb6d679f5066b60c1f1188/transformed/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/e7bbcc4772f10e1746cbbd81900e2d01/transformed/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/e7bbcc4772f10e1746cbbd81900e2d01/transformed/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/411b15f696018df42a3c6798902581f9/transformed/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/411b15f696018df42a3c6798902581f9/transformed/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:unimodules-react-native-adapter] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-splash-screen] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/hassanabbas/.gradle/caches/transforms-3/08ef509cb896858e56f2995140921a39/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/hassanabbas/.gradle/caches/transforms-3/08ef509cb896858e56f2995140921a39/transformed/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/1c0ba601b5bca3e415449b931c00b179/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/1c0ba601b5bca3e415449b931c00b179/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/1b2a142f561a8dc560d9b109a12f133f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/1b2a142f561a8dc560d9b109a12f133f/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/6be8810efa1c4cf1e55c605463291de7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/6be8810efa1c4cf1e55c605463291de7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:expo-application] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-application/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-application] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-application/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-constants/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-error-recovery] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-error-recovery/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-font/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-image-loader] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-image-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-image-loader] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-image-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-keep-awake] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-modules-core] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-modules-core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-modules-core] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-modules-core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-structured-headers] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-structured-headers/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-structured-headers] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-structured-headers/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-app-loader] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/unimodules-app-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-app-loader] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/unimodules-app-loader/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/core/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates-interface] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-updates-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-updates-interface] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-updates-interface/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/hassanabbas/.gradle/caches/transforms-3/40fa69ad56e65845c8ac7a05e1671cda/transformed/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/hassanabbas/.gradle/caches/transforms-3/40fa69ad56e65845c8ac7a05e1671cda/transformed/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/react-native-reanimated/android/build/.transforms/bfc6c626b003c9715562828ec18c63e1/transformed/jetified-react-native-reanimated-63-jsc/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/react-native-reanimated/android/build/.transforms/bfc6c626b003c9715562828ec18c63e1/transformed/jetified-react-native-reanimated-63-jsc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/d27a4940381b2a8c7e51c6cd4d8c932c/transformed/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/d27a4940381b2a8c7e51c6cd4d8c932c/transformed/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/aa73d5e0d392703017eb1f3730898e4a/transformed/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/aa73d5e0d392703017eb1f3730898e4a/transformed/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/b0492770d8447f117ec50eace47c5c86/transformed/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/b0492770d8447f117ec50eace47c5c86/transformed/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/fa5e3753065b74793ac5d2af40989388/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/fa5e3753065b74793ac5d2af40989388/transformed/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/15b92ffd732c364a4ee6fe2276714e4a/transformed/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/15b92ffd732c364a4ee6fe2276714e4a/transformed/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/2a4f154c70001d9205a7d970b7f187fa/transformed/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/2a4f154c70001d9205a7d970b7f187fa/transformed/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/59e5bac6ed0d2e6a4b0f7d14f760d407/transformed/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/59e5bac6ed0d2e6a4b0f7d14f760d407/transformed/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/655c227241a2e85fbd447333589d27fa/transformed/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/655c227241a2e85fbd447333589d27fa/transformed/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/4dd74fd6410c2f71e72a5b38ca2b09f1/transformed/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/4dd74fd6410c2f71e72a5b38ca2b09f1/transformed/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/1b2fb887a4a81f0d205c0f99d87e3ce9/transformed/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/1b2fb887a4a81f0d205c0f99d87e3ce9/transformed/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/615145576828269132af3afdc8d7c743/transformed/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/615145576828269132af3afdc8d7c743/transformed/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/d09fb003909d9cd3be0ba7f711dcad8a/transformed/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/d09fb003909d9cd3be0ba7f711dcad8a/transformed/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/4b3f1eb46669feb39a42b64c4d40a39b/transformed/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/4b3f1eb46669feb39a42b64c4d40a39b/transformed/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/75aa687a9eacf5da9990916ca943a3e2/transformed/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/75aa687a9eacf5da9990916ca943a3e2/transformed/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/5fc5ec0c157e976818e889bf3ba330e6/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/5fc5ec0c157e976818e889bf3ba330e6/transformed/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/7d51a378fd1c5f0ddd012619dfaced06/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/7d51a378fd1c5f0ddd012619dfaced06/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/daad751d25c167e8ff9cac051d877ac7/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/daad751d25c167e8ff9cac051d877ac7/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/b84631bae5e9d83ebc64bdd51663bb35/transformed/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/b84631bae5e9d83ebc64bdd51663bb35/transformed/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/9cb4e217b0b9c2feba592379f47dc290/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/9cb4e217b0b9c2feba592379f47dc290/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/d6348aa68d88d38f396d9fdf90f19b75/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/d6348aa68d88d38f396d9fdf90f19b75/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/cf1c2ebcd4db49a77ade5d3b98b59ba3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/cf1c2ebcd4db49a77ade5d3b98b59ba3/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/7fbe71716414c45a9a45884334f16310/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/7fbe71716414c45a9a45884334f16310/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/hassanabbas/.gradle/caches/transforms-3/cd60875f1d1b9088c2842f1315bd309c/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/hassanabbas/.gradle/caches/transforms-3/cd60875f1d1b9088c2842f1315bd309c/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/cdfc62ecea079137b0bb9fe4a47413bf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/cdfc62ecea079137b0bb9fe4a47413bf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/73a2598d927447ee58e609056736dc03/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/73a2598d927447ee58e609056736dc03/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/f28b4b57d1d0c117306f13ac5c552b5c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/f28b4b57d1d0c117306f13ac5c552b5c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/185cfeef35b5d927aac313e57fa1b9c5/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/hassanabbas/.gradle/caches/transforms-3/185cfeef35b5d927aac313e57fa1b9c5/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/362dacefab577720c1b319731ca9e551/transformed/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/362dacefab577720c1b319731ca9e551/transformed/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/2c82d24af3a6cebd023c639314512085/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/2c82d24af3a6cebd023c639314512085/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/fc77677982f41fad0cf20c1f914a03da/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/fc77677982f41fad0cf20c1f914a03da/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/d108357c57c2312f0e8c72be3a80bb98/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/d108357c57c2312f0e8c72be3a80bb98/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/d382808575ce7d767b46b1d2e4d89905/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/d382808575ce7d767b46b1d2e4d89905/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/0af3795e74a60077ea3de13f0773238d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/0af3795e74a60077ea3de13f0773238d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/6b688f97faa45c49d4e4aae4f488880f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/6b688f97faa45c49d4e4aae4f488880f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/61f9497fb715b7f5b037619777c1db70/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/61f9497fb715b7f5b037619777c1db70/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/dd15430688c26969de5d153d8ccd8d7a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/dd15430688c26969de5d153d8ccd8d7a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/26b770cb81608a384712ff1dead345f3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/26b770cb81608a384712ff1dead345f3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/df11b4e82595ddd5360c37915a75aa4f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/df11b4e82595ddd5360c37915a75aa4f/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /Users/hassanabbas/.gradle/caches/transforms-3/ab3ebcbb8c9356c2acb7c71a800aaf3c/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/hassanabbas/.gradle/caches/transforms-3/ab3ebcbb8c9356c2acb7c71a800aaf3c/transformed/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/f9482d7fb937acdbd0351d3a49bd82e0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/f9482d7fb937acdbd0351d3a49bd82e0/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/hassanabbas/.gradle/caches/transforms-3/0a5c1a805f1509538973b0ea4bd0da18/transformed/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/hassanabbas/.gradle/caches/transforms-3/0a5c1a805f1509538973b0ea4bd0da18/transformed/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/hassanabbas/.gradle/caches/transforms-3/0ffc67af11f49a49c4322abe164088f4/transformed/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/hassanabbas/.gradle/caches/transforms-3/0ffc67af11f49a49c4322abe164088f4/transformed/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/b290e94a656d830cf2b11ed89c341e4e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/b290e94a656d830cf2b11ed89c341e4e/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/c20e479377f314a37f78336880cbeb1e/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/c20e479377f314a37f78336880cbeb1e/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/b05fb189e9299fc7d3c87ecd81ff4599/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/b05fb189e9299fc7d3c87ecd81ff4599/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/e9a1ba93ee3dd0b5cd3efc9289113888/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/e9a1ba93ee3dd0b5cd3efc9289113888/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/51554e2965ac12999ebf3f9235a8afde/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/51554e2965ac12999ebf3f9235a8afde/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/86ec786f3561f4e2133fe1d0ffcf2c80/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/86ec786f3561f4e2133fe1d0ffcf2c80/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/bf4457e95a578f56d5d315d7aab7c7e4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/bf4457e95a578f56d5d315d7aab7c7e4/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/5c9439cde073ef10776e1a4bc34d0daf/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/5c9439cde073ef10776e1a4bc34d0daf/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/1454d8a616e1a8f194bbc67fc4661351/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/1454d8a616e1a8f194bbc67fc4661351/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/f40f701507aaf9ef3b6ec5b641fe7080/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hassanabbas/.gradle/caches/transforms-3/f40f701507aaf9ef3b6ec5b641fe7080/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/95b6d84f94ea89f081ea02d5ae556d18/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/95b6d84f94ea89f081ea02d5ae556d18/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/4d8b4bde4e0f130dcaca84f49221f69c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/4d8b4bde4e0f130dcaca84f49221f69c/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/hassanabbas/.gradle/caches/transforms-3/5d45754e06f5db01855c2586f6abc370/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/hassanabbas/.gradle/caches/transforms-3/5d45754e06f5db01855c2586f6abc370/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/be29b9c7a2a4b833bf82f1b756039a57/transformed/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/be29b9c7a2a4b833bf82f1b756039a57/transformed/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/6cc039a013e007f2b9d8654fd0599e0d/transformed/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/hassanabbas/.gradle/caches/transforms-3/6cc039a013e007f2b9d8654fd0599e0d/transformed/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/28560839b2fb6d679f5066b60c1f1188/transformed/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/hassanabbas/.gradle/caches/transforms-3/28560839b2fb6d679f5066b60c1f1188/transformed/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+meta-data#org.unimodules.core.AppLoader#react-native-headless
+ADDED from [:unimodules-react-native-adapter] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:91
+	android:value
+		ADDED from [:unimodules-react-native-adapter] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-88
+	android:name
+		ADDED from [:unimodules-react-native-adapter] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:expo-updates] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:expo-updates] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-updates/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-76
+queries
+ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-22:15
+intent
+ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-21:18
+action#android.intent.action.OPEN_DOCUMENT_TREE
+ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-79
+	android:name
+		ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:21-76
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-34:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-74
+	android:exported
+		ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-48
+	android:name
+		ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-33:70
+	android:resource
+		ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:17-67
+	android:name
+		ADDED from [:expo-file-system] /Users/hassanabbas/Desktop/Nodejs/AdLagaoApFE_RN/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:17-67
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/362dacefab577720c1b319731ca9e551/transformed/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/362dacefab577720c1b319731ca9e551/transformed/room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/hassanabbas/.gradle/caches/transforms-3/362dacefab577720c1b319731ca9e551/transformed/room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/hassanabbas/.gradle/caches/transforms-3/5d45754e06f5db01855c2586f6abc370/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/hassanabbas/.gradle/caches/transforms-3/5d45754e06f5db01855c2586f6abc370/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
